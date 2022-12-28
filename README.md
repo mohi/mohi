@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 --->
-- 📫 Please reach me on linkedin or [via my blog](https://mohi.github.io)
+- 📫 Please reach me on linkedin or mohi.github.io
 
 <!---
 mohi/mohi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
